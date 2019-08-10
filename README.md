@@ -1,4 +1,4 @@
-# Text-Detection
+# EAST-Pretrained
 
 ### Introduction
 
